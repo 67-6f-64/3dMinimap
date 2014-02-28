@@ -4,7 +4,7 @@ import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid="ss3dMinimap", name="さむい冬のミニマップ")
+//@Mod(modid="ss3dMinimap", name="さむい冬のミニマップ")
 public class MiniMap
 {
 	boolean toggleMode = false;
